@@ -6,6 +6,7 @@ This system is developed using kotlin language and using jetpack compose for UI.
 ![Optional Text](../DentApp/DentAPP_UI.png)
 <img src="url/https://github.com/riyansutantio/DentApp/blob/master/DentAPP_UI.png">
 ![A test image](../DentApp/DentAPP_UI.png)
+![img](https://github.com/riyansutantio/DentApp/blob/master/DentAPP_UI.png)
 
 Feature :
 - Diagnosis of dental and oral diseases
